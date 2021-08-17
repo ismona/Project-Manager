@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Database.js</file>
+        <file>PopupCalendar.qml</file>
+        <file>Settings.qml</file>
+        <file>Tables.qml</file>
+        <file>NewProject.qml</file>
+        <file>ProjectList.qml</file>
+        <file>AddNote.qml</file>
+        <file>ListofProjects.qml</file>
+        <file>InfoProject.qml</file>
+        <file>EditProject.qml</file>
+        <file>ListofNotes.qml</file>
+        <file>InfoNote.qml</file>
+        <file>ProjectsNotes.qml</file>
+        <file>SortFilterModel.qml</file>
+        <file>dynamicMonths.js</file>
+        <file>MonthRow.qml</file>
+        <file>EditNote.qml</file>
+        <file>html.js</file>
+    </qresource>
+</RCC>
